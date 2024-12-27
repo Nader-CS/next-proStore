@@ -1,5 +1,5 @@
-import Footer from "@/components/common/footer";
-import Header from "@/components/common/header";
+import Footer from "@/components/common/Footer";
+import Header from "@/components/common/Header";
 
 const RootLayout = ({ children }) => {
   return (
