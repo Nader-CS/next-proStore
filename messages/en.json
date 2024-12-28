@@ -2,5 +2,12 @@
   "all_rights_reserved": "All rights reserved.",
   "cart": "Cart",
   "sign_in": "Sign in",
-  "language": "Language"
+  "language": "Language",
+  "appearance": "Appearance",
+  "system": "System",
+  "light": "Light",
+  "dark": "Dark",
+  "not_found": "Not found",
+  "could_not_find_requested_page": "Could not find the requested page.",
+  "go_to_home": "Go to home page"
 }

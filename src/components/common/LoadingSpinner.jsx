@@ -1,3 +1,5 @@
+"use client";
+
 import { TailSpin } from "react-loader-spinner";
 
 const LoadingSpinner = ({ width = 30, height = 30 }) => {

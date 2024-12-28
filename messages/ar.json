@@ -2,5 +2,12 @@
   "all_rights_reserved": "كل الحقوق محفوظة.",
   "cart": "سله التسوق",
   "sign_in": "تسجيل الدخول",
-  "language": "اللغة"
+  "language": "اللغة",
+  "appearance": "المظهر",
+  "system": "النظام",
+  "light": "فاتح",
+  "dark": "داكن",
+  "not_found": "غير موجود",
+  "could_not_find_requested_page": "لا يمكن العثور على الصفحة المطلوبة.",
+  "go_to_home": "الذهاب إلى الصفحة الرئيسية"
 }

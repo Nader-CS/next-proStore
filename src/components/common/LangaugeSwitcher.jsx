@@ -31,7 +31,7 @@ const LanguageSwitcher = () => {
   return (
     <DropdownMenu>
       <DropdownMenuTrigger>
-        {isPending ? <LoadingSpinner /> : <Globe />}
+        <Globe />
       </DropdownMenuTrigger>
       <DropdownMenuContent>
         <DropdownMenuLabel>{t("language")}</DropdownMenuLabel>
